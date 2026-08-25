@@ -1,5 +1,0 @@
-# This directory is a Syncthing folder marker.
-# Do not delete.
-
-folderID: rpi-3b-plus-atlas_ws/src
-created: 2026-07-12T18:24:35+08:00
